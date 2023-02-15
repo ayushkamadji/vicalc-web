@@ -20,24 +20,36 @@ permalink: /
 
 Download an installer for your operating system
 
-| OS      | Link                                                       |
-| ------- | ---------------------------------------------------------- |
-| Windows | [download](../assets/download/vicalc_latest_x64_en-US.msi) |
+| OS      | Link                                                                                                               |
+| ------- | ------------------------------------------------------------------------------------------------------------------ |
+| Windows | [.msi](../assets/download/vicalc_0.2.0_x64_en-US.msi)                                                              |
+| Mac     | [.dmg](../assets/download/vicalc_0.2.0_x64.dmg)                                                                    |
+| Linux   | [.AppImage](../assets/download/vicalc_0.2.0_amd64.AppImage) \| [.deb](../assets/download/vicalc_0.2.0_amd64.deb)\* |
 
-<!--
-| Mac     | [download](../assets/download/vicalc_latest_x64_en-US.msi) |
-| Linux   | [download](../assets/download/vicalc_latest_x64_en-US.msi) |-->
+_\* .deb cannot be updated automatically._
+
+_\*\* Some browsers give me a warning about the downloaders, just ignore them. I haven't figured this out yet._
 
 ## Preview
 
-![Doge image](../assets/img/doge.gif)
+![DemoImage](../assets/img/pre-alpha-demo.gif)
 
 ## Notes
+
+### Dev Stream
+
+Development is streamed on twitch!
+See the schedule on [twitch.tv/ayushkamadji](https://www.twitch.tv/ayushkamadji)
 
 ### Notably missing features
 
 - Export to other formats
 - Quick save
+- Styling
+- Sticky connectors
+- Fine grained cursor movement
+- Undo/redo
+- Code signing for various platforms
 
 ### FAQ
 
