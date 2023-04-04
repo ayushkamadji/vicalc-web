@@ -18,13 +18,13 @@ permalink: /
 
 ## Download
 
-Download an installer for your operating system
+Current release is v0.2.1. Download an installer for your operating system
 
 | OS      | Link                                                                                                               |
 | ------- | ------------------------------------------------------------------------------------------------------------------ |
-| Windows | [.msi](../assets/download/vicalc_0.2.0_x64_en-US.msi)                                                              |
-| Mac     | [.dmg](../assets/download/vicalc_0.2.0_x64.dmg)                                                                    |
-| Linux   | [.AppImage](../assets/download/vicalc_0.2.0_amd64.AppImage) \| [.deb](../assets/download/vicalc_0.2.0_amd64.deb)\* |
+| Windows | [.msi](../assets/download/vicalc_0.2.1_x64_en-US.msi)                                                              |
+| Mac     | [.dmg](../assets/download/vicalc_0.2.1_x64.dmg)                                                                    |
+| Linux   | [.AppImage](../assets/download/vicalc_0.2.1_amd64.AppImage) \| [.deb](../assets/download/vicalc_0.2.1_amd64.deb)\* |
 
 _\* .deb cannot be updated automatically._
 
