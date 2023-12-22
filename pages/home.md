@@ -36,11 +36,6 @@ _\*\* Some browsers give me a warning about the downloaders, just ignore them. I
 
 ## Notes
 
-### Dev Stream
-
-Development is streamed on twitch!
-See the schedule on [twitch.tv/ayushkamadji](https://www.twitch.tv/ayushkamadji)
-
 ### Notably missing features
 
 - Export to other formats
